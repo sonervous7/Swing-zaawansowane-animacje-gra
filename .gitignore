@@ -1,0 +1,57 @@
+### IntelliJ IDEA ###
+# Foldery generowane przez IntelliJ
+.idea/
+out/
+
+# Pliki konfiguracyjne IDE
+*.iml
+*.ipr
+*.iws
+
+# Folder "target" dla innych narzędzi build
+target/
+
+# Skrypty indeksujące IDE
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries/
+.idea/**/vcs.xml
+.idea/shelf/
+
+# Cache IDE
+.idea/**/cache/
+.idea/**/localHistory/
+
+### Java ###
+# Pliki kompilacji i generowane binarki
+*.class
+*.jar
+*.war
+*.ear
+
+# Pliki kompilacji zależności
+*.log
+
+### System operacyjny ###
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+### Personalizacja ###
+# Pliki użytkownika
+*.swp
+*~
+.*.swp
+._*
+.idea/modules.xml
+.idea/vcs.xml
